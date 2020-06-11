@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(20, 20, 136);
+    font-family: 'Times New Roman', Times, serif;
+ /* About Part */    
+}
+.box-2{
+    color:wheat;
+    line-height: 1.5em;
+}
+h1{
+    font-size: 40px;
+}
+.heading{
+    color: green;
+    font-size: 25px;
+
+/* Image and Intro */    
+}
+.box-1{
+    color: white;
+    text-align: center;
+
+}
+.box-1 img{
+    width: 200px;
+    height: 200px;
+}
+
+/* Footer */
+
+footer{
+    text-align: center;
+    background-color:rgb(6, 6, 100);
+    color: white;
+    padding: 3px;
+}
